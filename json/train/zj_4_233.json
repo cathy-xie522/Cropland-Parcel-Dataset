@@ -1,0 +1,23 @@
+{
+    "imgHeight": 512,
+    "imgWidth": 512,
+    "objects": [
+        {
+            "label": "farmland",
+            "polygon": [
+                [
+                    0,
+                    350
+                ],
+                [
+                    0,
+                    365
+                ],
+                [
+                    7,
+                    359
+                ]
+            ]
+        }
+    ]
+}
