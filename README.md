@@ -1,2 +1,2 @@
 # Cropland-Parcel-Dataset
-A Cropland Parcel Dataset based High-Resolution Remote Sensing Images
+To address the lack of public dataset of cropland parcels that can be used for deep learning model training, we adopts ArcGIS software to manually label the samples in the images based on two GF-2 remote sensing images which are located in different regions, such as Funan County, Anhui Province and Ruian County, Zhejiang Province. We preprocess the remote sensing images and labeled data according to the data format requirements of the segmentation model, and divide the training set, validation set and test set according to the unified standard.
